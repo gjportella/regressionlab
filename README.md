@@ -7,4 +7,5 @@ https://stackoverflow.com/questions/17592139/trend-lines-regression-curve-fittin
 See the following examples of regression trends.
 
 Excel: https://github.com/gjportella/regressionlab/blob/master/source/src/test/resources/excel/regression.xlsx
+
 Java: https://github.com/gjportella/regressionlab/blob/master/source/src/test/java/br/unb/cic/laico/regressionlab/AppTest.java
